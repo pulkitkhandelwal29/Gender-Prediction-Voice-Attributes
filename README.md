@@ -30,6 +30,6 @@ Using the Voice Attributes, we are classifying whether the Gender is Male or Fem
 19. dfrange: range of dominant frequency measured across acoustic signal
 20. modindx: modulation index
 
-## Models
+## Models Accuracy
 * Support Vector Machine (74%)
 * Random Forest (98%)
